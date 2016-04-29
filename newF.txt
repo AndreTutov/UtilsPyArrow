@@ -1,3 +1,0 @@
-This is a new test file. 
-Changes - once.
-Changes - twice.

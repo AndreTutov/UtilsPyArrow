@@ -1,2 +1,0 @@
-# karabas
-Karabas Barabas
